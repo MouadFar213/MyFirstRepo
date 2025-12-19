@@ -1,0 +1,10 @@
+My Personal and Academic Goals for Next Year
+
+1. Complete my QA Testing certification (ISTQB Foundation Level)
+2. Master test automation frameworks (Karate, Selenium)
+3. Develop advanced testing methodologies (TDD, BDD, ATDD)
+4. Contribute to open-source QA projects
+5. Build strong fundamentals in Git version control
+6. Learn performance and load testing tools
+7. Improve my technical documentation skills
+8. Deepen knowledge in Agile and Scrum methodologies
