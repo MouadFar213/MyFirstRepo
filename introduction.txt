@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+Hello! My name is Mouad, and I am a dedicated student pursuing quality assurance and software testing education. I have a strong passion for technology and a keen interest in understanding how systems work from the testing perspective. With a foundation in Java programming and experience in various testing frameworks, I am committed to becoming a proficient QA professional.
+
+In my academic journey, I have been actively involved in project-based learning, particularly focusing on Agile methodologies, test automation, and version control systems like Git. I believe in continuous improvement and staying updated with the latest industry practices. My goal is to master comprehensive testing strategies and contribute to building high-quality software products.
